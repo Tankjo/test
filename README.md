@@ -1,8 +1,4 @@
-<style>
-  div {
-    background-color : red;
-  }
-</style>
+
 # test
 
 test
